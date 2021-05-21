@@ -1,2 +1,2 @@
-# LoginFarmacia1
+# LoginFarmacias
 Login de farmacias Perú
